@@ -275,10 +275,10 @@ The interactive BI dashboard transforms complex data into executive-ready insigh
 **Bhanu Hasaranga**  
 *Aspiring Data Analyst | Business Intelligence Enthusiast | Self-Taught Analytics Professional*
 
-📧 [Email](mailto:your.email@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/bhanuhasaranga)  
+📧 [Email](mailto:bhanuhasarangawijayasiri@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/bhanu-hasaranga)  
 🐱 [GitHub](https://github.com/BhanuHasaranga)  
-📊 [Portfolio](https://your-portfolio-url.com)
+📊 [Portfolio](https://bhanuhasaranga.me/)
 
 ---
 
